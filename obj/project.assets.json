@@ -7285,11 +7285,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Учёба\\ИСРПО\\CollectionsHandler\\CollectionsHandler\\CollectionsHandler.csproj",
+      "projectUniqueName": "D:\\Учёба\\ИСРПО\\Lab2\\collections-handler\\CollectionsHandler\\CollectionsHandler.csproj",
       "projectName": "CollectionsHandler",
-      "projectPath": "D:\\Учёба\\ИСРПО\\CollectionsHandler\\CollectionsHandler\\CollectionsHandler.csproj",
+      "projectPath": "D:\\Учёба\\ИСРПО\\Lab2\\collections-handler\\CollectionsHandler\\CollectionsHandler.csproj",
       "packagesPath": "C:\\Users\\111\\.nuget\\packages\\",
-      "outputPath": "D:\\Учёба\\ИСРПО\\CollectionsHandler\\CollectionsHandler\\obj\\",
+      "outputPath": "D:\\Учёба\\ИСРПО\\Lab2\\collections-handler\\CollectionsHandler\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\111\\AppData\\Roaming\\NuGet\\NuGet.Config",

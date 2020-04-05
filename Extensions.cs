@@ -13,5 +13,14 @@ namespace CollectionsHandler
                 Console.Write($"{item}, ");
             }
         }
+        public static string GetStringRepresentation<T>(this IEnumerable<T> list)
+        {
+            StringBuilder sb = new StringBuilder();
+            foreach (var item in list)
+            {
+                sb.AppendLine(item.ToString());
+            }
+            return sb.ToString();
+        }
     }
 }
