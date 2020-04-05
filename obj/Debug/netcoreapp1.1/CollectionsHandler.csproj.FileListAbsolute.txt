@@ -1,0 +1,8 @@
+D:\Учёба\ИСРПО\CollectionsHandler\CollectionsHandler\bin\Debug\netcoreapp1.1\CollectionsHandler.deps.json
+D:\Учёба\ИСРПО\CollectionsHandler\CollectionsHandler\bin\Debug\netcoreapp1.1\CollectionsHandler.dll
+D:\Учёба\ИСРПО\CollectionsHandler\CollectionsHandler\bin\Debug\netcoreapp1.1\CollectionsHandler.pdb
+D:\Учёба\ИСРПО\CollectionsHandler\CollectionsHandler\obj\Debug\netcoreapp1.1\CollectionsHandler.csproj.CoreCompileInputs.cache
+D:\Учёба\ИСРПО\CollectionsHandler\CollectionsHandler\obj\Debug\netcoreapp1.1\CollectionsHandler.AssemblyInfo.cs
+D:\Учёба\ИСРПО\CollectionsHandler\CollectionsHandler\obj\Debug\netcoreapp1.1\CollectionsHandler.dll
+D:\Учёба\ИСРПО\CollectionsHandler\CollectionsHandler\obj\Debug\netcoreapp1.1\CollectionsHandler.pdb
+D:\Учёба\ИСРПО\CollectionsHandler\CollectionsHandler\obj\Debug\netcoreapp1.1\CollectionsHandler.csprojAssemblyReference.cache
